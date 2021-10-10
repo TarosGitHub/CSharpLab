@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionTests", "FunctionTe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enumerator", "Enumerator\Enumerator.csproj", "{2EB2004D-8FB6-4CF3-B994-BF717B547E06}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumeratorTests", "EnumeratorTests\EnumeratorTests.csproj", "{0F763300-BC36-4959-A5AE-1F2478B29DD3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{2EB2004D-8FB6-4CF3-B994-BF717B547E06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2EB2004D-8FB6-4CF3-B994-BF717B547E06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2EB2004D-8FB6-4CF3-B994-BF717B547E06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F763300-BC36-4959-A5AE-1F2478B29DD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F763300-BC36-4959-A5AE-1F2478B29DD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F763300-BC36-4959-A5AE-1F2478B29DD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F763300-BC36-4959-A5AE-1F2478B29DD3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
